@@ -1,0 +1,15 @@
+type Member {
+    id: ID!
+    name: String!
+    histories: [History]!
+}
+
+type History {
+    date: String!
+    event: String!
+}
+
+type Query {
+    find(id: String): Member
+    findByName(name: String): [Member]!
+}

@@ -1,0 +1,2 @@
+- [Getting started with GraphQL Java and Spring Boot](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)
+- [Introduction to GraphQL](https://graphql.github.io/learn/)
